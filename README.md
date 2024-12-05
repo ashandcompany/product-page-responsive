@@ -27,9 +27,9 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot](./screen1.jpg)
+![Screenshot](/screen1.jpg)
 
-![Screenshot](./screen2.jpg)
+![Screenshot](/screen2.jpg)
 
 ## My Process
 
